@@ -74,7 +74,7 @@ void frequency_count(int arr1[size])
     {
         if (arr1[j] != -1)
         {
-            cout << arr1[j] << " = " << arr2[j] << " times" << endl;
+            cout << arr1[j] << " = " << arr2[j] << " time(s)" << endl;
         }
     }
 }
