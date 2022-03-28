@@ -81,6 +81,7 @@ int main()
     int arr[Size], key;
 
     cout << "Enter numbers : ";
+    
     for (int i = 0; i < Size; i++)
     {
         cin >> arr[i];
