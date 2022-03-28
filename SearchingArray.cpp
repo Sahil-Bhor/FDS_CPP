@@ -51,7 +51,9 @@ int main()
         cout<<"Enter number "<<i+1<<" : ";
         cin>>arr[i];
     }
+    
     cout<<"Array : ";
+    
     for(int i=0; i<Size; i++)
     {
         cout<<arr[i]<<" ";
