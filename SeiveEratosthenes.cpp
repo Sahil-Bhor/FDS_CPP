@@ -6,6 +6,7 @@ using namespace std;
 // if there is any multiple of number mark as 1
 // print those number which are unmarked 
 
+
 void primeSeive(int arr[], int key)
 {
     for(int i = 2; i <= key; i++)
